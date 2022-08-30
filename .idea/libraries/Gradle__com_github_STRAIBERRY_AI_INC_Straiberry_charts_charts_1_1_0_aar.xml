@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.STRAIBERRY-AI-INC.Straiberry-charts:charts:1.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ca4d9456bdc3f911bdc0aded384b139d/transformed/jetified-charts-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ca4d9456bdc3f911bdc0aded384b139d/transformed/jetified-charts-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ca4d9456bdc3f911bdc0aded384b139d/transformed/jetified-charts-1.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.STRAIBERRY-AI-INC.Straiberry-charts/charts/1.1.0/bbb2e849240c6ecd43ba0bb91f5b5dafdb6004cd/charts-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

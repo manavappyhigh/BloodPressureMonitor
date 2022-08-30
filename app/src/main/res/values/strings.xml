@@ -1,0 +1,221 @@
+<resources>
+    <string name="app_name">Blood Pressure Monitor</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="action_ok">OK</string>
+    <string name="action_update">UPDATE</string>
+    <string name="action_set">SET</string>
+    <string name="action_retry">RE-TRY</string>
+    <string name="action_cancel">CANCEL</string>
+    <string name="action_yes">YES</string>
+    <string name="action_no">NO</string>
+    <string name="action_gallery">Gallery</string>
+    <string name="action_camera">Camera</string>
+    <string name="action_go_settings">GOTO SETTINGS</string>
+    <string name="alert">Alert</string>
+
+    <string name="oauth_client_id" translatable="false">350772288608-v5itu95hbb5go1reu82sp8tqurab2o9u.apps.googleusercontent.com</string>
+    <string name="version">Version %1$s</string>
+    <string name="title_required_permission">Need Permissions</string>
+    <string name="message_required_permission">This app needs permission to use this feature. You can grant them in app settings.</string>
+    <string name="addExpense_hint">There is no transactions to show, Please add your transactions.</string>
+    <string name="title_alert_connection">Connection Error</string>
+    <string name="message_alert_change_date">Your phone date is inaccurate! Adjust your clock and try again.</string>
+    <string name="title_alert_date">Date</string>
+    <string name="message_alert_connection">Please connect with active network connection and Try again.</string>
+    <string name="title_alert_confirm_logout">Logout</string>
+    <string name="message_alert_confirm_logout">Are you sure want to Logout from application?</string>
+
+    <string name="action_re_login">Re-login</string>
+    <string name="title_more">More</string>
+    <string name="label_choose_currency">CHOOSE CURRENCY</string>
+    <string name="alert_title_new_update">Update Available</string>
+    <string name="alert_message_new_update">A new version of this app is available. Please click below to update the latest version.</string>
+    <string name="btn_quarterly">Quarterly</string>
+    <string name="btn_half_yearly">Half Yearly</string>
+    <string name="btn_yearly">Yearly</string>
+    <string name="btn_start_date">Start Date</string>
+    <string name="btn_end_date">End Date</string>
+    <string name="btn_show_report">Show Report</string>
+    <string name="btn_view_in_details">View in Details</string>
+    <string name="hint_select_month">Select Month</string>
+    <string name="hint_select_months">Select Month</string>
+    <string name="hint_select_quarter">Select Quarter</string>
+    <string name="hint_select_year">Select Year</string>
+    <string name="message_no_transactions_found_for_selected_criteria">No transaction found for selected criteria.</string>
+    <string name="message_no_transactions_entered">No Transaction Entered</string>
+    <string name="message_select_quarter_and_year">Please select Quarter and Year.</string>
+    <string name="message_select_start_date">Please select Start Date.</string>
+    <string name="message_select_end_date">Please select End Date.</string>
+    <string name="message_select_invalid_date">Invalid Date.</string>
+    <string name="message_select_year">Please select Year.</string>
+    <string name="message_select_quarter">Please select Quarter.</string>
+    <string name="message_select_months_and_year">Please select Months and Year.</string>
+    <string name="message_select_months">Please select Months.</string>
+    <string name="message_no_data_found">No data found.</string>
+    <string name="alert_title_quarter_selection">Make your selection</string>
+    <string name="alert_title_half_year_selection">Make your selection</string>
+    <string name="alert_title_select_month">Select Month</string>
+    <string name="alert_title_select_year">Select Year</string>
+    <string name="label_set_currency_symbol">Set currency symbol</string>
+    <string name="label_update_currency_symbol">Update currency symbol</string>
+    <string name="message_set_currency_symbol_first">Set your currency symbol first.</string>
+    <string name="alert_title_user_profile">User Profile</string>
+    <string name="alert_message_user_profile">Fetching user profile failed due to \'%1$s \'. Please try again.</string>
+    <string name="message_internet_connection">Internet connection</string>
+    <string name="message_currency_symbol_set_successfully">Your currency symbol has been set successfully.</string>
+    <string name="message_currency_symbol_updated_successfully">Your currency symbol has been updated successfully. Please login again.</string>
+    <string name="alert_title_success">Success</string>
+    <string name="message_enter_currency_first">Enter your currency first.</string>
+    <string name="toolbar_title_downloads">Downloads</string>
+    <string name="message_no_transactions_found_for_selected_month_for_download">No transaction found for selected month.</string>
+    <string name="message_no_firebase_reference_node_found">No Reference node found.</string>
+    <string name="toolbar_title_add_categories">Add Category</string>
+    <string name="message_categories_updated_successfully">Categories updated successfully.</string>
+    <string name="message_no_categories_added_yet">No new category has been added yet.</string>
+    <string name="message_category_adding_or_updating_failed_due_to">Failed to add / update category due to %1$s.</string>
+    <string name="message_select_color">Select Color.</string>
+    <string name="message_duplicate_category">Duplicate category.</string>
+    <string name="toolbar_title_add_account">Add Account</string>
+    <string name="message_bank_names_updated_successfully">Bank names updated successfully.</string>
+    <string name="message_no_new_bank_has_been_added_yet">No new banks has been added yet.</string>
+    <string name="message_bank_adding_or_updating_failed_due_to">Failed to add / update banks due to %1$s.</string>
+    <string name="message_enter_bank_name">Enter bank name.</string>
+    <string name="message_bank_name_already_exist">Bank name already exist.</string>
+    <string name="message_no_bank_added_yet_kindly_add_from_below">No bank(s) added yet.Please add bank from below.</string>
+    <string name="message_no_categories_added_yet_kindly_add_from_below">No categories added yet.Please add some category by tapping on bottom ICON.</string>
+    <string name="alert_title_downloading_image">Downloading…</string>
+    <string name="message_image_downloaded_successfully">Image downloaded successfully.</string>
+    <string name="label_downloaded">Downloaded</string>
+    <string name="alert_title_image_compression">Please wait…</string>
+    <string name="label_add_expense_category">Add Expense Category</string>
+    <string name="note_add_expense_category"><![CDATA[Please enter expense category.\nExe. Food & Drink,Transportation which are responsible for expenses are comes under EXPENSE.]]></string>
+    <string name="label_add_income_category">Add Income Category</string>
+    <string name="note_add_income_category">Please enter income category.\nExe. Work On Demand,Salary which are source of incomes are comes under INCOME.</string>
+    <string name="message_enter_category">Please enter category.</string>
+    <string name="hint_enter_category">Enter category</string>
+    <string name="message_device_not_support_camera">Sorry! Your device doesn\'t support camera.</string>
+    <string name="message_select_date">Select Date</string>
+    <string name="message_enter_amount">Enter Amount</string>
+    <string name="message_select_bank">Select Bank</string>
+    <string name="message_select_category">Select Category</string>
+    <string name="message_enter_valid_amount">Enter Valid Amount</string>
+    <string name="message_captured_image_is_corrupted_or_invalid">Captured image is corrupted or not valid/exists.Please try again.</string>
+    <string name="toolbar_title_add_expense">Add Expense</string>
+    <string name="toolbar_title_add_income">Add Income</string>
+    <string name="alert_title_capture_photo">Upload Photo</string>
+    <string name="alert_message_capture_photo">How do you want to take proof ?</string>
+    <string name="alert_title_uploading_image">Uploading…</string>
+    <string name="label_uploaded">Uploaded</string>
+    <string name="message_no_transactions_found">No transactions found.</string>
+    <string name="alert_message_delete_all_transaction_for_date">Sure to delete all transaction entries for selected \' %1$s \' date?</string>
+    <string name="message_transaction_deleted_successfully">Transaction deleted successfully.</string>
+    <string name="alert_message_delete_child_transaction_entry">Sure to delete transaction entry?</string>
+    <string name="message_image_deleted_successfully">Image deleted successfully.</string>
+    <string name="message_failed_to_delete_image_due_to">Failed to delete image due to %1$s.</string>
+    <string name="label_date">DATE</string>
+    <string name="label_amount">AMOUNT</string>
+    <string name="label_payment_mode">PAYMENT MODE</string>
+    <string name="label_bank_name">BANK NAME</string>
+    <string name="label_category">CATEGORY</string>
+    <string name="label_description_optional">DESCRIPTION (Optional)</string>
+    <string name="label_enter_bank_name">Enter Bank Name</string>
+    <string name="label_images">IMAGES</string>
+    <string name="label_transactions">TRANSACTIONS</string>
+    <string name="label_add_categories">Add Categories</string>
+    <string name="description_of_add_categories">Add unlimited income / expense categories</string>
+    <string name="label_add_bank">Add Bank</string>
+    <string name="description_of_add_bank">Add unlimited number of banks</string>
+    <string name="label_currency_symbol">Currency Symbol</string>
+    <string name="label_set_reminder">Set Reminder</string>
+    <string name="label_reminder_me">Reminder Me</string>
+    <string name="label_remind_me">Remind Me @</string>
+    <string name="description_of_reminder_me">We will reminds you to make entries of your transactions.</string>
+    <string name="label_set_reminder_time">Set Reminder Time</string>
+    <string name="label_about_me">About Me</string>
+    <string name="label_develop_by">Develop By</string>
+    <string name="label_application_version">Application Version</string>
+    <string name="btn_monthly">Monthly</string>
+    <string name="label_category_wise_chart_summary">Category Wise Summary</string>
+    <string name="application_share"><![CDATA[\'%1$s\' - The Great Management Handling App.\nPlease download app from below link and Provide Rate & Review.]]></string>
+
+
+    <!--Color Chooser-->
+    <string name="colorpicker_dialog_title">Choose Color</string>
+    <string name="colorpicker_dialog_cancel">@string/action_cancel</string>
+    <string name="colorpicker_dialog_ok">ADD</string>
+
+    <!--Note : Change categories(Income & Expense) name into another language only if you wants add new categories into another language(except English)-->
+    <!--names of expense categories-->
+    <string name="label_expense_type_groceries">GROCERIES</string>
+    <string name="label_expense_type_transportation">TRANSPORTATION</string>
+    <string name="label_expense_type_shopping">SHOPPING</string>
+    <string name="label_expense_type_rent">RENT</string>
+    <string name="label_expense_type_donation">DONATION</string>
+    <string name="label_expense_type_food">FOOD &amp; DRINK</string>
+    <string name="label_expense_type_fees">FEES</string>
+    <string name="label_expense_type_loan">LOANS</string>
+    <string name="label_expense_type_medical">MEDICAL</string>
+    <!--color codes for expense categories-->
+    <string name="color_expens_groceries">#f44336</string>
+    <string name="color_expens_medical">#009688</string>
+    <string name="color_expens_transportation">#9c27b0</string>
+    <string name="color_expens_shopping">#673ab7</string>
+    <string name="color_expens_acc_loan">#00bcd4</string>
+    <string name="color_expens_rent">#e91e63</string>
+    <string name="color_expens_donation">#2196f3</string>
+    <string name="color_expens_food">#03a9f4</string>
+    <string name="color_expens_fees">#3f51b5</string>
+
+
+    <!--names of income categories-->
+    <string name="label_income_type_salary">SALARY</string>
+    <string name="label_income_type_interest">INTEREST</string>
+    <string name="label_income_type_pension">PENSION</string>
+    <string name="label_income_type_income_from_rent">INCOME FROM RENT</string>
+    <string name="label_income_type_tax_return">TAX RETURN</string>
+    <string name="label_income_type_work_on_demand">WORK ON DEMAND</string>
+    <string name="label_income_type_coupon">COUPON</string>
+    <!--color codes for income categories-->
+    <string name="color_income_salary">#4caf50</string>
+    <string name="color_income_interest">#cddc39</string>
+    <string name="color_income_pension">#ffeb3b</string>
+    <string name="color_income_income_from_rent">#8bc34a</string>
+    <string name="color_income_tax_return">#ff9800</string>
+    <string name="color_income_work_on_demand">#ffc107</string>
+    <string name="color_income_coupon">#FFCC00</string>
+
+    <!-- Calendar Screen : Short names of Days -->
+    <string name="monday">Mon</string>
+    <string name="tuesday">Tue</string>
+    <string name="wednesday">Wed</string>
+    <string name="thursday">Thu</string>
+    <string name="friday">Fri</string>
+    <string name="saturday">Sat</string>
+    <string name="sunday">Sun</string>
+
+    <!-- Home Screen : Bottom views -->
+    <string name="nav_item_home">HOME</string>
+    <string name="nav_item_calendar">CALENDAR</string>
+    <string name="nav_item_chart">CHART</string>
+    <string name="nav_item_report">REPORT</string>
+    <!-- Home Screen : Top views -->
+    <string name="label_expense">EXPENSE</string>
+    <string name="label_income">INCOME</string>
+    <string name="label_balance">BALANCE</string>
+    <string name="label_saving">SAVING</string>
+    <!-- Home Screen : Slider -->
+    <string name="menu_item_rate_us">Rate Us</string>
+    <string name="menu_item_share">Share</string>
+    <string name="menu_item_feedback">Feedback</string>
+    <string name="menu_item_more_apps">More Apps</string>
+    <string name="menu_item_logout">Logout</string>
+    <string name="menu_item_download">Downloads</string>
+    <string name="menu_item_more">More</string>
+
+    <!--Note : No need to change names-->
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+
+</resources>
